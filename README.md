@@ -17,3 +17,6 @@
  
 
 
+## ABSTRACT: 
+
+A quantitative structure-property relationship (QSPR) approach was employed to predict activity coefficients at infinite dilution for 58 organic compounds and water at six different temperatures in ionic liquid of [BMPYR][TCM]. Many descriptors were calculated using Dragon software. The best-calculated descriptors were selected from 18 classes of Dragon descriptors by stepwise regression (SR) and genetic algorithm based on partial least square (GA-PLS). Twelve descriptors with SR and ten descriptors with GA-PLS methods were selected. The selected variables by these methods were used as input for artificial neural network (ANN) and support vector machine (SVM) to construct models to predict activity coefficients at 137 infinite dilutions of these compounds. The test set investigated the performance of each model. The results showed that the Levenberg-Marquart artificial neural network with tangent-sigmoid transfer function and stepwise regression-based descriptors might be simulated the relationship between the structural descriptors and activity coefficients at .infinite dilution of organic compounds and water accurately. The mean square error (MSES) and Absolute Average percent Deviation (AADs) for the .test set are 0.0179 and 2.4306%, respectively.
